@@ -17,7 +17,14 @@ Customers would be able to:
   - search testing sites
 
 Facility staff members would be able to:
-  - book testings for the two types of testing on behalf of customers. 
+  - login to the system as a staff member
+  - book testing appointments on behalf of customers
   - view all bookings made for their respective facilities through an admin interface
-  
-  
+
+---
+
+### Project Purpose
+
+The purpose of the project is to familiarise students with the different software architecture models currently in-use such as Model-View-Controller (MVC) through implementing it. Students were also given the opportunity to use various design patterns such as Factory Methods, Abstract Factories, Observers, and Façades. 
+
+Students were also given exposure to using APIs and storing information using JSON. The API in use for the project was Monash University's own Monash Web Service API. 
